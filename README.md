@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArielWeisberg
+- 👋 Hi, I’m @ArielSchwalb
 - 👀 I’m interested in science and technology.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...

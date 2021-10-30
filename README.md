@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArielSchwalb
-- 👀 I’m interested in science and technology.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming and cybersecurity.
+- 🌱 I’m majoring in Information Technology.
+- 💞️ I’m looking to make a career change to cybersecurity.
 - 📫 How to reach me ... contact me at ajschwalb@gmail.com.
 
 <!---

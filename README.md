@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArielSchwalb. I'm a student.
+- 👋 Hi, I’m @ArielSchwalb. I'm an IT student and an English teacher.
 - 👀 I’m interested in programming and cybersecurity.
 - 🌱 I’m majoring in Information Technology.
 - 💞️ I’m looking to break into the tech industry.

@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ArielSchwalb. I'm an IT student and an English teacher.
-- 👀 I’m interested in programming and cybersecurity.
+- 👋 Hi, I’m @ArielSchwalb. I'm a content manager.
+- 👀 I’m interested in web development and digital marketing.
 - 🌱 I’m majoring in Information Technology.
-- 💞️ I’m looking to break into the tech industry.
 - 📫 How to reach me ... contact me at ajschwalb@gmail.com.
 
 <!---

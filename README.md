@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArielSchwalb. I'm a site manager.
+- 👋 Hi, I’m @ArielSchwalb. I'm a product manager.
 - 👀 I’m interested in web development and digital marketing.
 - 🌱 I’m majoring in Information Technology.
 - 📫 How to reach me ... contact me at ajschwalb@gmail.com.
